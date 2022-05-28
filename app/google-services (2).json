@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424348324586",
+    "project_id": "projectsarad",
+    "storage_bucket": "projectsarad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424348324586:android:06477ccaa9b2cb1c1c7d93",
+        "android_client_info": {
+          "package_name": "com.example.projectsaraAldegaither"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424348324586-0vvnrpb32o2099nc3fhnlduqch80v62n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSz_RncU8UsPKHovJc6XQeu0OowrLdRL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424348324586-0vvnrpb32o2099nc3fhnlduqch80v62n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectSaraD</string>
+    <string-array name="options">
+        <item>Berlin</item>
+        <item>Riyadh</item>
+        <item>Athens</item>
+    </string-array>
+</resources>
